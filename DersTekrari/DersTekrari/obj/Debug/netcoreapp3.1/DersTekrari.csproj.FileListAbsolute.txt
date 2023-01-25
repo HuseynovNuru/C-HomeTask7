@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.AssemblyInfo.cs
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DersTekrari\DersTekrari\bin\Debug\netcoreapp3.1\DersTekrari.exe
+C:\Users\User\source\repos\DersTekrari\DersTekrari\bin\Debug\netcoreapp3.1\DersTekrari.deps.json
+C:\Users\User\source\repos\DersTekrari\DersTekrari\bin\Debug\netcoreapp3.1\DersTekrari.runtimeconfig.json
+C:\Users\User\source\repos\DersTekrari\DersTekrari\bin\Debug\netcoreapp3.1\DersTekrari.runtimeconfig.dev.json
+C:\Users\User\source\repos\DersTekrari\DersTekrari\bin\Debug\netcoreapp3.1\DersTekrari.dll
+C:\Users\User\source\repos\DersTekrari\DersTekrari\bin\Debug\netcoreapp3.1\DersTekrari.pdb
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.dll
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.pdb
+C:\Users\User\source\repos\DersTekrari\DersTekrari\obj\Debug\netcoreapp3.1\DersTekrari.genruntimeconfig.cache
